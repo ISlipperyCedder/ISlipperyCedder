@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ISlipperyCedder
-- 🌱 I’m currently coding a Discord bot (https://inviterodbot.islipperyc.xyz).
+- 🧑‍💻 Minecraft Java & Discord bot developer
 
 <!---
 ISlipperyCedder/ISlipperyCedder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
